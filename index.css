@@ -1,0 +1,371 @@
+.logo {
+    width: 95px;
+    height: 95px;
+}
+
+#home {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+#about {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+#services {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+#pages {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+#testimonials {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+#blog {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+#contact {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.bg-container01 {
+    background-image: url("https://res.cloudinary.com/dqrttxm5s/image/upload/v1670237511/final_rzxxvr.webp");
+    background-size: cover;
+    height: 70vh;
+}
+
+.heading01 {
+    color: #ffffff;
+    font-size: 35px;
+    font-family: "Roboto";
+    font-weight: bold;
+
+}
+
+.paragraph01 {
+    color: #ffffff;
+    font-size: 19px;
+    font-family: "Roboto";
+    font-weight: 400;
+
+
+}
+
+.button01 {
+    color: #ffffff;
+    background-color: #377bfa;
+    border-radius: 8px;
+    border-width: 0px;
+    height: 40px;
+    width: 125px;
+
+}
+
+.image01 {
+    width: 250px;
+    height: 250px;
+    margin-top: 25px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+}
+
+.caption01 {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 18px;
+}
+
+.image02 {
+    width: 250px;
+    height: 250px;
+    margin-top: 25px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+}
+
+.image03 {
+    width: 250px;
+    height: 250px;
+    margin-top: 25px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+
+}
+
+.bg-container02 {
+    background-color: #cdd2d4;
+    background-size: cover;
+}
+
+.image04 {
+    width: 280px;
+    height: 280px;
+    margin-top: 25px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+
+}
+
+.heading02 {
+    color: #323f4b;
+    font-size: 38px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.paragraph02 {
+    color: #ffffff;
+    font-size: 19px;
+    font-family: "Roboto";
+    font-weight: 400;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+.bg-container03 {
+    background-color: #f7f9fa;
+    background-size: cover;
+}
+
+.card-container {
+    border-color: #f0ece9;
+    border-width: 1px;
+    border-radius: 8px;
+    border-style: solid;
+    background-color: #ffffff;
+    margin-bottom: 20px;
+}
+
+.title {
+    color: #323f4b;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Roboto";
+    font-style: italic;
+}
+
+.description {
+    color: #323f4b;
+    font-size: 15px;
+    font-family: "Roboto";
+    font-weight: 400;
+
+}
+
+.button02 {
+    color: #ffffff;
+    background-color: #377bfa;
+    border-radius: 8px;
+    border-width: 0px;
+    height: 40px;
+    width: 125px;
+    margin-bottom: 10px;
+
+}
+
+.title02 {
+    color: #323f4b;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "Roboto";
+    text-decoration: underline;
+
+}
+
+.title03 {
+    color: orange;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Roboto";
+    text-decoration: underline;
+
+}
+
+.card-container01 {
+    border-color: #f0ece9;
+    border-width: 1px;
+    border-radius: 8px;
+    border-style: solid;
+    background-color: #ffffff;
+    margin-bottom: 20px;
+    margin-top: 25px;
+}
+
+.web01 {
+    margin-top: -115px;
+    margin-left: -125px;
+    height: 50px;
+    width: 50px;
+}
+
+.title04 {
+    color: #ec42f5;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: "Roboto";
+    margin-top: -25px;
+}
+
+.description02 {
+    color: #323f4b;
+    font-size: 15px;
+    font-family: "Roboto";
+    font-weight: 400;
+    margin-left: 5px;
+    margin-right: 5px;
+
+}
+
+.spa {
+    color: #f0e91d;
+    font-size: 15px;
+    font-family: "Roboto";
+    text-decoration: underline;
+}
+
+.bg-container05 {
+    background-color: #0a0a0a;
+    background-size: cover;
+}
+
+.title06 {
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Roboto";
+    text-decoration: underline;
+}
+
+.card-container03 {
+    border-color: #f0ece9;
+    border-width: 1px;
+    border-radius: 8px;
+    border-style: solid;
+    background-color: #dadee0;
+    margin-bottom: 20px;
+    margin-top: 25px;
+}
+
+.ratansir {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    margin-top: -25px;
+}
+
+.name {
+    color: #323f4b;
+    font-family: "roboto";
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.des {
+    color: #323f4b;
+    font-family: "roboto";
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: -10px;
+
+}
+
+.revi {
+    color: #323f4b;
+    font-family: "roboto";
+    font-size: 14px;
+    font-weight: 400;
+    margin-left: 8px;
+    margin-right: 8px;
+
+}
+
+.colou {
+    margin-right: 8px;
+}
+
+.num {
+    color: #faef57;
+    font-size: 16px;
+    margin-top: -5px;
+}
+
+.title07 {
+    color: #323f4b;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Roboto";
+    text-decoration: underline;
+
+}
+
+.bg-container06 {
+    background-color: #84857f;
+    background-size: cover;
+}
+
+.contactus {
+    color: #f2c75a;
+    font-size: 38px;
+    font-weight: bold;
+    font-family: "Roboto";
+    text-decoration: underline;
+}
+
+.address01 {
+    color: #86d0eb;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: "Roboto";
+
+}
+
+.address {
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: "Roboto";
+}
+
+.subscribe {
+    color: #86d0eb;
+    font-size: 28px;
+    font-weight: bold;
+    font-family: "Roboto";
+    text-decoration: underline;
+
+}
+
+.formholder {
+    margin-top: 5px;
+    border-radius: 8px;
+}
+
+.colou02 {
+    margin-right: 15px;
+}
